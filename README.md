@@ -1,4 +1,3 @@
-# UART Core Blocks in Verilog 
 # UART Core Blocks in Verilog
 
 This project contains a simplified UART transmitter, UART receiver, and FIFO buffer written in Verilog.  
